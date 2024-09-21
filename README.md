@@ -23,7 +23,7 @@ As a collaborative problem solver, I thrive in fast-paced environments and love 
 
 ### Technologies I have worked with:
 
-- JavaScript, C/C++, HTML, CSS 3, Python
+- JavaScript, C/C++, HTML, CSS 3, Python, Flutter
 - Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS) and Next.js
 - CSS frameworks and libraries like Material UI, Bootstrap, Tailwind CSS
