@@ -1,4 +1,4 @@
-## Hey 👋, I'm Suraj Pokhrel!  
+<center>## Hey 👋, I'm Suraj Pokhrel! </center> 
   
 
 <a href="https://www.facebook.com/hisurajhere" target="_blank">
