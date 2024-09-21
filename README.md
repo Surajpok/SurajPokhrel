@@ -15,13 +15,13 @@
 </a>  
   
 ### Glad to see you here!  
-Proficient in creating dynamic, user-centric web and mobile applications, I work with modern technologies like Next.js, React.js, MongoDB, Node.js, Express.js, Firebase, and Postman. While I frequently use the MERN stack, I’m adaptable to other tools and frameworks as required.
+I'm a software engineer with a passion for building dynamic, user-centric web and mobile applications. My expertise spans modern technologies like Next.js, React.js, MongoDB, Node.js, Express.js, Firebase, and Postman. Although I primarily work with the MERN stack, I’m flexible and adept at using various tools and frameworks to fit project needs.
 
-A collaborative team player with a passion for solving problems, I thrive in fast-paced development environments. I also value humor and enjoy bringing a positive energy to the workplace.
+As a collaborative problem solver, I thrive in fast-paced environments and love crafting solutions that optimize both performance and user experience. Plus, I enjoy bringing humor and positivity to the teams I work with!
 <br/>
 
 
-### Technologies I have previously worked with:
+### Technologies I have worked with:
 
 - JavaScript, C/C++, HTML, CSS 3, Python
 - Popular Python libraries, including pandas, NumPy, Matplotlib, and many more.
